@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>商業周刊 · rssify</title>
+<link>https://www.businessweekly.com.tw/</link>
+<description> — filtered by rssify 0.1</description>
+<language>zh-TW</language>
+<lastBuildDate>Sat, 07 Nov 2026 13:18:26 +0000</lastBuildDate>
+<atom:link href="https://ennioli.github.io/rssify-feeds/businessweekly.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>超商搶當你家社區里長伯！全家包裹直送管理室、小七推AI管家，圖什麼？</title>
+<link>https://www.businessweekly.com.tw/business/blog/3023529</link>
+<guid isPermaLink="false">https://www.businessweekly.com.tw/business/blog/3023529</guid>
+<pubDate>Thu, 05 Nov 2026 17:09:15 +0800</pubDate>
+<dc:creator>蔡茹涵</dc:creator>
+<category>business</category>
+<category>雜誌</category>
+<category>商業周刊</category>
+<category>商周專欄</category>
+<category>財經</category>
+<category>rssify:score=5</category>
+<description>蝦皮7成包裹改走自家物流，全家物流子公司由盈轉虧，被逼出社區直送新服務；統一超則押注高齡化和一人家戶。從日本超商的轉型經驗，看台灣超商如何走向「準社會設施」。
+
+[rssify 5/5] 分析台灣超商通路轉型與AI服務，正中通路零售轉型主題。</description>
+</item>
+<item>
+<title>輝達成短期輸家？美期中選舉讓資料中心踩煞車，台廠先蹲後跳</title>
+<link>https://www.businessweekly.com.tw/international/blog/3023528</link>
+<guid isPermaLink="false">https://www.businessweekly.com.tw/international/blog/3023528</guid>
+<pubDate>Thu, 05 Nov 2026 11:48:56 +0800</pubDate>
+<dc:creator>曹博凱</dc:creator>
+<category>international</category>
+<category>雜誌</category>
+<category>商業周刊</category>
+<category>商周專欄</category>
+<category>國際</category>
+<category>rssify:score=5</category>
+<description>美國期中選舉被視為對川普的期中考，民主黨橫掃國會兩院，州長席次也16年來首度過半。選後全美只剩12州歡迎資料中心，川普力挺的AI基建狂潮被迫踩煞車，台灣AI供應鏈將迎來短痛。
+
+[rssify 5/5] 美國選舉影響AI基建與台灣供應鏈，符合國際經濟對台灣影響。</description>
+</item>
+<item>
+<title>不用換公司，接案每月多領2萬！日本企業推「內部兼職」，讓員工跨部門打工</title>
+<link>https://www.businessweekly.com.tw/management/blog/3023526</link>
+<guid isPermaLink="false">https://www.businessweekly.com.tw/management/blog/3023526</guid>
+<pubDate>Wed, 04 Nov 2026 17:32:29 +0800</pubDate>
+<dc:creator>陳建鈞</dc:creator>
+<category>management</category>
+<category>雜誌</category>
+<category>商業周刊</category>
+<category>商周專欄</category>
+<category>管理</category>
+<category>rssify:score=4</category>
+<description>日企柯尼卡美能達推出內部兼職，員工不必調職，每月支援其他部門20小時可多領10萬日圓。兩輪試行36件需求媒合27件，連原主管都意外受惠。
+
+[rssify 4/5] 日企內部兼職制度為公司經營管理案例，值得參考。</description>
+</item>
+<item>
+<title>不負責運算，卻決定AI能跑多遠！功率半導體大洗牌，下一波競爭看什麼？</title>
+<link>https://www.businessweekly.com.tw/business/blog/3023525</link>
+<guid isPermaLink="false">https://www.businessweekly.com.tw/business/blog/3023525</guid>
+<pubDate>Wed, 04 Nov 2026 17:17:07 +0800</pubDate>
+<dc:creator>蘇子芸</dc:creator>
+<category>business</category>
+<category>雜誌</category>
+<category>商業周刊</category>
+<category>商周專欄</category>
+<category>財經</category>
+<category>rssify:score=4</category>
+<description>隨著AI資料中心用電需求攀升，如何提高電力轉換效率、減少能源損耗，逐漸成為科技業的重要課題，也讓功率半導體重新受到關注。
+
+[rssify 4/5] AI資料中心帶動功率半導體產業競爭分析，符合產業分析。</description>
+</item>
+</channel>
+</rss>
