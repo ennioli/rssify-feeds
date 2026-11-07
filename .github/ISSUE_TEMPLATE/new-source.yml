@@ -1,0 +1,64 @@
+name: 新增來源
+description: 把一個網站、YouTube 頻道、podcast 或既有 feed 加進 rssify。Mac Studio 的下一輪 (最多 2 小時) 會驗證、加入、抓第一次，結果留言在這裡。
+title: "新增來源：<網址或名稱>"
+labels: ["source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        只有「來源網址」必填。型別由程式判斷：YouTube 頻道、Apple Podcasts 節目、feed 網址、或一般網站 (會先找它的 feed，找不到才抓列表頁)。
+        這個 repo 是公開的，這裡寫的內容 (含 want) 誰都看得到。
+  - type: input
+    id: url
+    attributes:
+      label: 來源網址
+      placeholder: https://www.youtube.com/@ManagerToday ／ https://podcasts.apple.com/…/id312059190 ／ https://example.com/
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: 名稱
+      description: feed 的標題與檔名；留空用網站主機名或頻道名。
+  - type: checkboxes
+    id: filters
+    attributes:
+      label: 過濾
+      options:
+        - label: 去 Shorts
+        - label: 去直播 (含預告與已結束)
+        - label: 去付費文
+        - label: 去預告集與加碼集
+  - type: input
+    id: min_minutes
+    attributes:
+      label: 最短分鐘
+      description: 影片或集數短於這個分鐘數就不要 (YouTube 會多呼叫 yt-dlp)。
+      placeholder: "3"
+  - type: input
+    id: include
+    attributes:
+      label: 只留含這些關鍵字
+      description: 逗號分隔；標題或摘要含任一個才留。
+  - type: input
+    id: exclude
+    attributes:
+      label: 排除含這些關鍵字
+      description: 逗號分隔；標題或摘要含任一個就丟。
+  - type: input
+    id: lists
+    attributes:
+      label: 列表頁 (只給一般網站)
+      description: 逗號分隔；留空用首頁。
+  - type: input
+    id: link_pattern
+    attributes:
+      label: 文章連結樣式 (只給一般網站)
+      description: regex，留空讓程式從首頁猜；程式猜不出會留言請你填。
+      placeholder: ^https://www\.businessweekly\.com\.tw/([a-z]+)/blog/(\d+)$
+  - type: textarea
+    id: want
+    attributes:
+      label: want
+      description: 一句話：想要什麼、不要什麼。有填就多一道 AI 語意過濾 (每輪一次)；留空就純規則。
+      placeholder: 企業如何導入 AI、台灣通路與零售轉型。不要：理財商品、星座、活動廣告。
