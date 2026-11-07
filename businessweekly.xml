@@ -5,7 +5,7 @@
 <link>https://www.businessweekly.com.tw/</link>
 <description> — filtered by rssify 0.1</description>
 <language>zh-TW</language>
-<lastBuildDate>Sat, 07 Nov 2026 13:18:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 13:19:54 +0000</lastBuildDate>
 <atom:link href="https://ennioli.github.io/rssify-feeds/businessweekly.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>超商搶當你家社區里長伯！全家包裹直送管理室、小七推AI管家，圖什麼？</title>
@@ -70,6 +70,54 @@
 <description>隨著AI資料中心用電需求攀升，如何提高電力轉換效率、減少能源損耗，逐漸成為科技業的重要課題，也讓功率半導體重新受到關注。
 
 [rssify 4/5] AI資料中心帶動功率半導體產業競爭分析，符合產業分析。</description>
+</item>
+<item>
+<title>4年前急裁員，今年忙到熬通宵！華爾街在中國賺到錢了嗎？</title>
+<link>https://www.businessweekly.com.tw/international/blog/3023524</link>
+<guid isPermaLink="false">https://www.businessweekly.com.tw/international/blog/3023524</guid>
+<pubDate>Wed, 04 Nov 2026 15:35:38 +0800</pubDate>
+<dc:creator>黃苡宣 編譯</dc:creator>
+<category>international</category>
+<category>雜誌</category>
+<category>商業周刊</category>
+<category>商周專欄</category>
+<category>國際</category>
+<category>rssify:score=3</category>
+<description>香港IPO熱潮讓華爾街忙翻，但中國AI股重挫4成、企業出海獲利存疑。中港金融市場現況如何？華爾街賺得不多，為何仍不走？
+
+[rssify 3/5] 分析華爾街在中港市場的獲利與中國 AI 股，屬國際經濟與產業經營分析。</description>
+</item>
+<item>
+<title>「AI避風港」失靈？蘋果營收創新高，市場卻擔心這三件事</title>
+<link>https://www.businessweekly.com.tw/international/blog/3023518</link>
+<guid isPermaLink="false">https://www.businessweekly.com.tw/international/blog/3023518</guid>
+<pubDate>Tue, 03 Nov 2026 11:33:41 +0800</pubDate>
+<dc:creator>黃苡宣 編譯</dc:creator>
+<category>international</category>
+<category>雜誌</category>
+<category>商業周刊</category>
+<category>商周專欄</category>
+<category>國際</category>
+<category>rssify:score=4</category>
+<description>蘋果新任執行長特納斯交出首份財報，單季營收1,145億美元、全年營收創新高，股價卻在法說會期間下跌。沒有重押AI的蘋果，為何還是被AI熱潮拖累？記憶體漲價、服務業務放緩是關鍵。
+
+[rssify 4/5] 蘋果財報與 AI 熱潮對公司經營的影響，屬公司經營分析。</description>
+</item>
+<item>
+<title>公司導入AI，員工就得自己學？推動變革前，主管先做這5件事</title>
+<link>https://www.businessweekly.com.tw/management/blog/3023511</link>
+<guid isPermaLink="false">https://www.businessweekly.com.tw/management/blog/3023511</guid>
+<pubDate>Mon, 02 Nov 2026 14:16:57 +0800</pubDate>
+<dc:creator>張敏敏</dc:creator>
+<category>management</category>
+<category>雜誌</category>
+<category>商業周刊</category>
+<category>商周專欄</category>
+<category>管理</category>
+<category>rssify:score=5</category>
+<description>策略計畫寫得出來，執行卻跟不上，企業該如何讓員工參與變革？《OGSM 2.0帶出高協作團隊》作者張敏敏提出5項準備工作，從說明改變理由、提供明確進程，到能力培訓、獎勵制度與非財務指標，提醒主管在導入新知識與工具時，須考量員工的理解、能力與意願，並掌握執行過程中的問題，協助策略落實於日常工作。
+
+[rssify 5/5] 直接談企業導入 AI 時主管如何推動員工變革。</description>
 </item>
 </channel>
 </rss>
