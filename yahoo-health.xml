@@ -5,7 +5,7 @@
 <link>https://tw.news.yahoo.com/rss/health</link>
 <description>瀏覽 Yahoo奇摩新聞上的健康頭條新聞及最新動態。尋找相關新聞報導、影音、照片和分析意見。 — filtered by rssify 0.1</description>
 <language>zh-TW</language>
-<lastBuildDate>Tue, 17 Nov 2026 11:06:07 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 13:06:38 +0000</lastBuildDate>
 <atom:link href="https://ennioli.github.io/rssify-feeds/yahoo-health.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>全家吃一樣鹹唯獨她血壓飆！專家揭「這類人」排鈉變差　恐增失智風險</title>
@@ -13,6 +13,13 @@
 <guid isPermaLink="false">https://tw.news.yahoo.com/%E5%85%A8%E5%AE%B6%E5%90%83-%E6%A8%A3%E9%B9%B9%E5%94%AF%E7%8D%A8%E5%A5%B9%E8%A1%80%E5%A3%93%E9%A3%86-%E5%B0%88%E5%AE%B6%E6%8F%AD-%E9%80%99%E9%A1%9E%E4%BA%BA-%E6%8E%92%E9%88%89%E8%AE%8A%E5%B7%AE-104600142.html</guid>
 <pubDate>Tue, 17 Nov 2026 10:46:00 +0800</pubDate>
 <description>食農專家韋恩指出，女性比男性更容易出現「鹽分敏感性」，尤其停經後雌激素下降，使排鈉與血管調節能力變弱，吃相同鹽分血壓卻更容易飆高，進而增加失智風險。衛福部建議成人每日鈉攝取量不超過2400毫克，民眾應留意日常飲食並定期監測血壓，若持續偏高應就醫查明原因。</description>
+</item>
+<item>
+<title>視力變差、看東西扭曲變形？ 中國醫眼科專家：教你用手機10秒檢測黃斑部病變</title>
+<link>https://tw.news.yahoo.com/%E8%A6%96%E5%8A%9B%E8%AE%8A%E5%B7%AE-%E7%9C%8B%E6%9D%B1%E8%A5%BF%E6%89%AD%E6%9B%B2%E8%AE%8A%E5%BD%A2-%E4%B8%AD%E5%9C%8B%E9%86%AB%E7%9C%BC%E7%A7%91%E5%B0%88%E5%AE%B6-%E6%95%99%E4%BD%A0%E7%94%A8%E6%89%8B%E6%A9%9F10%E7%A7%92%E6%AA%A2%E6%B8%AC%E9%BB%83%E6%96%91%E9%83%A8%E7%97%85%E8%AE%8A-090342422.html</link>
+<guid isPermaLink="false">https://tw.news.yahoo.com/%E8%A6%96%E5%8A%9B%E8%AE%8A%E5%B7%AE-%E7%9C%8B%E6%9D%B1%E8%A5%BF%E6%89%AD%E6%9B%B2%E8%AE%8A%E5%BD%A2-%E4%B8%AD%E5%9C%8B%E9%86%AB%E7%9C%BC%E7%A7%91%E5%B0%88%E5%AE%B6-%E6%95%99%E4%BD%A0%E7%94%A8%E6%89%8B%E6%A9%9F10%E7%A7%92%E6%AA%A2%E6%B8%AC%E9%BB%83%E6%96%91%E9%83%A8%E7%97%85%E8%AE%8A-090342422.html</guid>
+<pubDate>Tue, 17 Nov 2026 09:03:42 +0800</pubDate>
+<description>看直線變彎、中心視野出現黑影或變模糊，可能是黃斑部病變的警訊。眼科醫師謝明潔說明如何用手機相機格線逐眼觀察，若發現異常應由眼科檢查確認。本文整理老化、高血糖與黃斑部病變的關聯，說明葉黃素、魚油等保健品的角色，並介紹眼內注射、規律回診及健保給付審查，讓患者與家屬了解從察覺症狀到治療追蹤的重點。</description>
 </item>
 <item>
 <title>走路變慢、起身費力？醫師提醒健康老化做好三件事</title>
@@ -699,13 +706,6 @@
 <guid isPermaLink="false">https://tw.news.yahoo.com/%E9%86%AB%E6%8F%AD%E5%8D%B1%E9%9A%AA%E5%B0%8F%E5%90%83%E6%8E%92%E8%A1%8C-35%E6%AD%B2%E4%B8%8A%E7%8F%AD%E6%97%8F%E8%85%8E%E5%8A%9F%E8%83%BD%E6%9A%B4%E8%B7%8C%E8%87%B35%E5%88%86-020603194.html</guid>
 <pubDate>Fri, 13 Nov 2026 02:06:03 +0800</pubDate>
 <description>腎臟科醫師洪永祥分享一名35歲上班族個案，患者因長期不良飲食 habits，腎絲球過濾率5年內從90分降至5分，藥物治療暫緩惡化後仍開始洗腎。洪永祥指出，患者連續5年每天以10顆煎餃或鍋貼搭配酸辣湯作宵夜，並整理出10大高油、高澱粉或高醬料小吃，提醒腎功能不佳者留意飲食風險。</description>
-</item>
-<item>
-<title>肥胖不能只看BMI！新版指引納入腰圍與共病分期</title>
-<link>https://tw.news.yahoo.com/%E8%82%A5%E8%83%96%E4%B8%8D%E8%83%BD%E5%8F%AA%E7%9C%8Bbmi-%E6%96%B0%E7%89%88%E6%8C%87%E5%BC%95%E7%B4%8D%E5%85%A5%E8%85%B0%E5%9C%8D%E8%88%87%E5%85%B1%E7%97%85%E5%88%86%E6%9C%9F-020000302.html</link>
-<guid isPermaLink="false">https://tw.news.yahoo.com/%E8%82%A5%E8%83%96%E4%B8%8D%E8%83%BD%E5%8F%AA%E7%9C%8Bbmi-%E6%96%B0%E7%89%88%E6%8C%87%E5%BC%95%E7%B4%8D%E5%85%A5%E8%85%B0%E5%9C%8D%E8%88%87%E5%85%B1%E7%97%85%E5%88%86%E6%9C%9F-020000302.html</guid>
-<pubDate>Fri, 13 Nov 2026 02:00:00 +0800</pubDate>
-<description>【健康醫療網／記者黃奕寧報導】肥胖不但是疾病，也可能影響健康餘命！權威醫學期刊《Lancet》「21世紀全球健康威脅委員會」近期指出，肥胖是本世紀重要的可避免健康威脅之一¹。中華民國糖尿病學會等14個跨專科學會，12日攜手推出新版《台灣成人肥胖及肥胖相關併發症與疾病臨床照護指引》，並首度提出「肥胖分期防治」觀念，依共病嚴重程度分為三期，強調「量腰圍、防共病、護器官」，並提出「國家肥胖防治建言書」，呼籲訂定成人肥胖率下降5%、兒童青少年過重率下降10%的國家政策目標²，跨部會推動及早介入。 中華民國糖尿病學會楊偉勛理事長強調，肥胖已成為全球重要的公共衛生挑戰之一，不僅是慢性病的危險因子，更與糖尿病、心血管疾病、癌症及失能密切相關。肥胖防治不能只看體重與身體質量指數（BMI），也應重視腰圍。 腹部肥胖常伴隨較多內臟脂肪，與脂肪肝、胰島素阻抗及代謝異常密切相關；若肥胖從兒少時期開始，更可能延續至成年，使慢性疾病提早發生，增加終身疾病負擔，縮短健康餘命³。民眾卻常忽略肥胖相關共病的警訊，學會期望藉由新版指引的發布，幫助民眾更早覺察潛在健康風險，及早尋求醫療協助。 新版指引三步驟：BMI篩檢、量</description>
 </item>
 </channel>
 </rss>
