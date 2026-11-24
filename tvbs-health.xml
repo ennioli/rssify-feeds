@@ -5,7 +5,7 @@
 <link>https://health.tvbs.com.tw/</link>
 <description> — filtered by rssify 0.1</description>
 <language>zh-TW</language>
-<lastBuildDate>Tue, 24 Nov 2026 19:49:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 23:50:24 +0000</lastBuildDate>
 <atom:link href="https://ennioli.github.io/rssify-feeds/tvbs-health.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>腰痛、腿麻別硬撐！照服員搬扶長輩20年椎間盤突出算職災 可享賠償</title>
@@ -1128,6 +1128,24 @@
 <description>吃飽後腦袋反而昏沉、下午容易疲倦嗎？不少人吃保健品救記憶，醫師提醒，別把焦點只放在補腦產品，真正左右大腦老化速度的關鍵其實在日常餐盤！研究顯示，有一種飲食法能讓</description>
 </item>
 <item>
+<title>全台一週天氣／好天氣剩1天！「投票日」天氣曝 這3天最濕冷</title>
+<link>https://health.tvbs.com.tw/life/367632</link>
+<guid isPermaLink="false">https://health.tvbs.com.tw/life/367632</guid>
+<pubDate>Mon, 23 Nov 2026 01:30:00 +0800</pubDate>
+<dc:creator>李南燕</dc:creator>
+<category>life</category>
+<category>life</category>
+<category>投票日天氣</category>
+<category>天氣預報</category>
+<category>一週天氣</category>
+<category>東北季風</category>
+<category>華南雲雨區</category>
+<category>氣溫</category>
+<category>氣象署</category>
+<category>氣象</category>
+<description>好天氣只剩一天！中央氣象署表示，未來一週天氣受到2波東北季風影響，整體呈現「前濕後乾、先雨後涼」的變化，全台平地最低溫將下探14度。本週六（11/28）投票日天</description>
+</item>
+<item>
 <title>熱潮紅、失眠、私密處乾澀不一定要荷爾蒙治療！醫揭最新對症解方</title>
 <link>https://health.tvbs.com.tw/strong/367619</link>
 <guid isPermaLink="false">https://health.tvbs.com.tw/strong/367619</guid>
@@ -1735,23 +1753,6 @@
 <category>洪琬瑜</category>
 <category>免疫治療</category>
 <description>昔以〈木棉手帕〉等多首暢銷曲聞名的日本知名歌手「太田裕美」，1974年出道後憑藉清亮歌聲與堅強意志活躍樂壇多年，日前傳出她病逝，她的音樂製作人丈夫福岡智彥也在她</description>
-</item>
-<item>
-<title>天氣／第一道大陸冷氣團來了！明下探10度 今全台最低溫落在新北</title>
-<link>https://health.tvbs.com.tw/life/367587</link>
-<guid isPermaLink="false">https://health.tvbs.com.tw/life/367587</guid>
-<pubDate>Thu, 19 Nov 2026 17:35:00 +0800</pubDate>
-<dc:creator>李南燕</dc:creator>
-<category>life</category>
-<category>life</category>
-<category>大陸冷氣團</category>
-<category>降溫</category>
-<category>強風</category>
-<category>降雪</category>
-<category>天氣預報</category>
-<category>氣象署</category>
-<category>有感降溫</category>
-<description>入秋後首波大陸冷氣團真的包圍台灣了！氣象署表示，今（11/19）白天最低溫13.5度出現在新北富貴角沿海一帶，山區以玉山測到0.1度為全國最低。今入夜後將是越晚</description>
 </item>
 </channel>
 </rss>
