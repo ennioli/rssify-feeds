@@ -5,8 +5,15 @@
 <link>https://tw.news.yahoo.com/rss/health</link>
 <description>瀏覽 Yahoo奇摩新聞上的健康頭條新聞及最新動態。尋找相關新聞報導、影音、照片和分析意見。 — filtered by rssify 0.1</description>
 <language>zh-TW</language>
-<lastBuildDate>Wed, 25 Nov 2026 11:55:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 13:55:29 +0000</lastBuildDate>
 <atom:link href="https://ennioli.github.io/rssify-feeds/yahoo-health.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>少吃「這一樣」幾天內就能降血壓　心臟科醫揭驚人關鍵</title>
+<link>https://tw.news.yahoo.com/%E5%B0%91%E5%90%83-%E9%80%99-%E6%A8%A3-%E5%B9%BE%E5%A4%A9%E5%85%A7%E5%B0%B1%E8%83%BD%E9%99%8D%E8%A1%80%E5%A3%93-%E5%BF%83%E8%87%9F%E7%A7%91%E9%86%AB%E6%8F%AD%E9%A9%9A%E4%BA%BA%E9%97%9C%E9%8D%B5-121400401.html</link>
+<guid isPermaLink="false">https://tw.news.yahoo.com/%E5%B0%91%E5%90%83-%E9%80%99-%E6%A8%A3-%E5%B9%BE%E5%A4%A9%E5%85%A7%E5%B0%B1%E8%83%BD%E9%99%8D%E8%A1%80%E5%A3%93-%E5%BF%83%E8%87%9F%E7%A7%91%E9%86%AB%E6%8F%AD%E9%A9%9A%E4%BA%BA%E9%97%9C%E9%8D%B5-121400401.html</guid>
+<pubDate>Wed, 25 Nov 2026 12:14:00 +0800</pubDate>
+<description>心臟科醫師指出，日常習慣對血壓的影響至關重要，其中只要減少鹽分攝取，在短短幾天內就能透過排出多餘水分快速降低血壓，效果堪比第一線降血壓藥物。研究顯示低鈉飲食還能改善動脈僵硬與血管功能。醫師建議少吃超加工食品並善用香草香料調味，幫助維持健康的血壓。</description>
+</item>
 <item>
 <title>小弟弟狂脫屑！別以為沒洗乾淨　醫揭「1元凶」：拖久恐推不開</title>
 <link>https://tw.news.yahoo.com/%E5%B0%8F%E5%BC%9F%E5%BC%9F%E7%8B%82%E8%84%AB%E5%B1%91-%E5%88%A5%E4%BB%A5%E7%82%BA%E6%B2%92%E6%B4%97%E4%B9%BE%E6%B7%A8-%E9%86%AB%E6%8F%AD-1%E5%85%83%E5%87%B6-%E6%8B%96%E4%B9%85%E6%81%90%E6%8E%A8%E4%B8%8D%E9%96%8B-111200401.html</link>
@@ -699,13 +706,6 @@
 <guid isPermaLink="false">https://tw.news.yahoo.com/%E5%B0%88%E5%AE%B6-b%E8%82%9D%E6%82%A3%E8%80%85%E8%82%9D%E6%8C%87%E6%95%B8%E6%AD%A3%E5%B8%B8%E4%BB%8D%E6%9C%89%E8%82%9D%E7%99%8C%E9%A2%A8%E9%9A%AA-092230624.html</guid>
 <pubDate>Fri, 20 Nov 2026 09:22:30 +0800</pubDate>
 <description>（中央社記者沈佩瑤台北20日電）B肝患者肝指數正常不代表遠離肝癌，專家指出，B型肝炎表面抗原（HBsAg）濃度與長期肝癌風險有關，已確診B肝者可與醫師討論加做抽血定量檢測，落實「篩得早、量得準、追得牢」防癌。</description>
-</item>
-<item>
-<title>橄欖油+檸檬=排毒？醫揭「綠色結石」真相：2類人別空腹喝</title>
-<link>https://tw.news.yahoo.com/%E6%A9%84%E6%AC%96%E6%B2%B9-%E6%AA%B8%E6%AA%AC-%E6%8E%92%E6%AF%92-%E9%86%AB%E6%8F%AD-%E7%B6%A0%E8%89%B2%E7%B5%90%E7%9F%B3-092100016.html</link>
-<guid isPermaLink="false">https://tw.news.yahoo.com/%E6%A9%84%E6%AC%96%E6%B2%B9-%E6%AA%B8%E6%AA%AC-%E6%8E%92%E6%AF%92-%E9%86%AB%E6%8F%AD-%E7%B6%A0%E8%89%B2%E7%B5%90%E7%9F%B3-092100016.html</guid>
-<pubDate>Fri, 20 Nov 2026 09:21:00 +0800</pubDate>
-<description>韓國流行的「橄欖油＋檸檬汁」空腹飲用風潮引發討論，傳聞可排便及排出綠色排毒顆粒。家醫科醫師陳欣湄澄清，綠色顆粒僅是消化液與油混合的正常生理現象。醫師提醒，空腹喝油醋易引發胃食道逆流、加重胃炎，更可能誘發膽結石患者急性膽囊炎。建議將油醋醬搭配正常飲食食用，才能兼顧健康與營養。</description>
 </item>
 </channel>
 </rss>
