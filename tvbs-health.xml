@@ -5,8 +5,26 @@
 <link>https://health.tvbs.com.tw/</link>
 <description> — filtered by rssify 0.1</description>
 <language>zh-TW</language>
-<lastBuildDate>Wed, 25 Nov 2026 21:58:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 01:59:44 +0000</lastBuildDate>
 <atom:link href="https://ennioli.github.io/rssify-feeds/tvbs-health.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>外資賣、投信買，到底該跟誰？財經專家李永年解析3大法人操作術</title>
+<link>https://health.tvbs.com.tw/review/367712</link>
+<guid isPermaLink="false">https://health.tvbs.com.tw/review/367712</guid>
+<pubDate>Thu, 26 Nov 2026 09:00:00 +0800</pubDate>
+<dc:creator>李南燕</dc:creator>
+<category>review</category>
+<category>review</category>
+<category>股市投資</category>
+<category>法人動向</category>
+<category>K線分析</category>
+<category>風險管理</category>
+<category>量價關係</category>
+<category>投信</category>
+<category>李永年</category>
+<category>技術分析</category>
+<description>一買就跌、一賣就漲？近期股市大幅震盪，甚至有一日行情上沖下洗讓投資人看得瞠目結舌，追高殺低反而讓自己受傷。財經專家李永年在鄭凱云主持的《如果云知道》節目中提醒，</description>
+</item>
 <item>
 <title>「脫腸」好痛苦 76歲翁雙側疝氣困擾多年！「這技術」修補脫腸4優勢</title>
 <link>https://health.tvbs.com.tw/medical/367725</link>
@@ -1735,23 +1753,6 @@
 <category>心臟病風險</category>
 <category>林謂文</category>
 <description>不少民眾天天在家量血壓，數值卻總是忽高忽低或與醫院差很大。台安醫院心臟內科主任林謂文指出，臨床觀察10人量血壓竟有8至9人量錯；若首次測量發現左右手血壓差距超過</description>
-</item>
-<item>
-<title>戒白飯、少吃麵就能瘦？低醣飲食怎麼吃？這類食物也別忽略</title>
-<link>https://health.tvbs.com.tw/regimen/367605</link>
-<guid isPermaLink="false">https://health.tvbs.com.tw/regimen/367605</guid>
-<pubDate>Sat, 21 Nov 2026 08:08:00 +0800</pubDate>
-<dc:creator>郭庚儒</dc:creator>
-<category>regimen</category>
-<category>regimen</category>
-<category>低醣飲食</category>
-<category>白飯</category>
-<category>麵條</category>
-<category>戒澱粉</category>
-<category>美乃滋</category>
-<category>炸物</category>
-<category>蔬果</category>
-<description>低醣飲食是近年流行的減重方式，不少人從減少白飯、麵食等澱粉類食物下手，短期內就能看到體重下降。不過，當碳水化合物攝取降得太低，營養失衡的風險也可能跟著升高。 澱</description>
 </item>
 </channel>
 </rss>
