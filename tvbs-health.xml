@@ -5,7 +5,7 @@
 <link>https://health.tvbs.com.tw/</link>
 <description> — filtered by rssify 0.1</description>
 <language>zh-TW</language>
-<lastBuildDate>Fri, 27 Nov 2026 16:14:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 18:15:11 +0000</lastBuildDate>
 <atom:link href="https://ennioli.github.io/rssify-feeds/tvbs-health.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>鼻胃管一放就要用一輩子？台大教授揭拔管關鍵與飲食禁忌</title>
@@ -24,6 +24,24 @@
 <category>舒適餵食</category>
 <category>王亭貴</category>
 <description>很多人以為，長輩裝了鼻胃管就要用一輩子！台大醫院復健部王亭貴教授指出，事實上只要掌握吞嚥照護關鍵，善用IDDSI國際飲食質地分級並避開地雷食物，就有機會成功拔管</description>
+</item>
+<item>
+<title>不用死背穴位也能收平小腹！女中醫教「1插腰動作」：氣血通了自然瘦</title>
+<link>https://health.tvbs.com.tw/review/367783</link>
+<guid isPermaLink="false">https://health.tvbs.com.tw/review/367783</guid>
+<pubDate>Sat, 28 Nov 2026 00:02:00 +0800</pubDate>
+<dc:creator>朱育嫻</dc:creator>
+<category>review</category>
+<category>review</category>
+<category>35歲開始老化</category>
+<category>陽明脈衰</category>
+<category>皮膚發黃</category>
+<category>小腹</category>
+<category>掉髮</category>
+<category>女七男八</category>
+<category>陽明經</category>
+<category>褚柏菁</category>
+<description>為什麼過了35歲，沒吃比較多卻開始長贅肉、皮膚發黃還狂掉髮？這不是代謝變差，而是《黃帝內經》記載的「陽明脈衰」。健康主播鄭凱云在網路節目《如果云知道》邀請中醫師</description>
 </item>
 <item>
 <title>飛蚊症會好嗎？眼前黑點變成「簾幕黑影」醫揭恐視網膜剝離警訊</title>
@@ -1738,23 +1756,6 @@
 <category>1212斷食</category>
 <category>陳欣湄</category>
 <description>日前網紅「肥大叔」血糖飆破1200mg/dL猝逝，也有人曾尿尿引來螞蟻竟是糖尿病！家醫科醫師陳欣湄警告，血管長期泡糖水會釀腦中風、心肌梗塞與腎衰竭；靠吃藥不夠，</description>
-</item>
-<item>
-<title>三餐清淡腎絲球過濾率狂跌20分？醫揪兇手是它！3招護腎 吃這些魚有效</title>
-<link>https://health.tvbs.com.tw/regimen/367679</link>
-<guid isPermaLink="false">https://health.tvbs.com.tw/regimen/367679</guid>
-<pubDate>Tue, 24 Nov 2026 14:29:00 +0800</pubDate>
-<dc:creator>羅以容</dc:creator>
-<category>regimen</category>
-<category>regimen</category>
-<category>Omega-3</category>
-<category>腎絲球過濾率</category>
-<category>腎臟</category>
-<category>地中海飲食</category>
-<category>腎功能</category>
-<category>鮭魚</category>
-<category>洪永祥</category>
-<description>吃得很清淡腎絲球過濾率反而會下降？腎臟由數百萬條微血管編織而成，形成一張精密的「超級濾網」，當全身血管開始老化、發炎或硬化時，這些脆弱的腎絲球往往首當其衝。腎臟</description>
 </item>
 </channel>
 </rss>
