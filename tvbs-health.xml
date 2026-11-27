@@ -5,8 +5,26 @@
 <link>https://health.tvbs.com.tw/</link>
 <description> — filtered by rssify 0.1</description>
 <language>zh-TW</language>
-<lastBuildDate>Fri, 27 Nov 2026 12:13:46 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 16:14:46 +0000</lastBuildDate>
 <atom:link href="https://ennioli.github.io/rssify-feeds/tvbs-health.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>鼻胃管一放就要用一輩子？台大教授揭拔管關鍵與飲食禁忌</title>
+<link>https://health.tvbs.com.tw/life/367772</link>
+<guid isPermaLink="false">https://health.tvbs.com.tw/life/367772</guid>
+<pubDate>Sat, 28 Nov 2026 00:05:00 +0800</pubDate>
+<dc:creator>許寶仁</dc:creator>
+<category>life</category>
+<category>life</category>
+<category>鼻胃管</category>
+<category>吞嚥障礙</category>
+<category>長期照護</category>
+<category>飲食質地</category>
+<category>胃造口</category>
+<category>長照飲食</category>
+<category>舒適餵食</category>
+<category>王亭貴</category>
+<description>很多人以為，長輩裝了鼻胃管就要用一輩子！台大醫院復健部王亭貴教授指出，事實上只要掌握吞嚥照護關鍵，善用IDDSI國際飲食質地分級並避開地雷食物，就有機會成功拔管</description>
+</item>
 <item>
 <title>飛蚊症會好嗎？眼前黑點變成「簾幕黑影」醫揭恐視網膜剝離警訊</title>
 <link>https://health.tvbs.com.tw/medical/367789</link>
@@ -1737,23 +1755,6 @@
 <category>鮭魚</category>
 <category>洪永祥</category>
 <description>吃得很清淡腎絲球過濾率反而會下降？腎臟由數百萬條微血管編織而成，形成一張精密的「超級濾網」，當全身血管開始老化、發炎或硬化時，這些脆弱的腎絲球往往首當其衝。腎臟</description>
-</item>
-<item>
-<title>是粉瘤、深層痘痘？額頭胸背狂冒囊腫竟是多發性皮脂囊腫，微創雷射助擺脫</title>
-<link>https://health.tvbs.com.tw/medical/367678</link>
-<guid isPermaLink="false">https://health.tvbs.com.tw/medical/367678</guid>
-<pubDate>Tue, 24 Nov 2026 14:26:00 +0800</pubDate>
-<dc:creator>丁彥伶</dc:creator>
-<category>medical</category>
-<category>medical</category>
-<category>多發性皮脂囊腫</category>
-<category>粉瘤</category>
-<category>皮膚囊腫</category>
-<category>雷射微創手術</category>
-<category>囊腫治療</category>
-<category>皮膚腫瘤</category>
-<category>呂賴穎</category>
-<description>30歲的李先生最近2年多來，額頭、胸部以及背部陸續長出許多顆肉色囊腫。本來不痛不癢，但後來只要受到衣物摩擦或不小心擠壓，就會發炎化膿，甚至破裂流出沒有氣味的黃色</description>
 </item>
 </channel>
 </rss>
